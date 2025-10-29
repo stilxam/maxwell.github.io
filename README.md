@@ -151,7 +151,8 @@ This is a continuation of my Bachelor End Project, I am implementing methods suc
 *   Best Pitch Award (out of 30 teams) for "Pitch Competition - Data Driven Business Creations" presented to a set of industry experts at [JADS](https://www.jads.nl/)
 
 ## Languages
-| French | English | Spanish | German | Dutch |
-| :---: | :---: | :---: | :---: | :---: |
-| Native | Native | Native | Fluent | Proficient (Reading & Listening) |
+Native: French, English, Spanish
+Fluent: German
+Proficient (Reading & Listening): Dutch
+
 
