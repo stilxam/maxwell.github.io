@@ -23,6 +23,7 @@ I thrive in collaborative environments, using machine learning to help people ma
 </summary>
 <ul>
 <li> Mentored and instructed classes of 60 students in Python, created auxiliary course material, graded assignments, invigilated exams, and led course material recaps during instructor absences.
+</li> 
 </ul>
 </details>
 <br/>
@@ -33,6 +34,7 @@ I thrive in collaborative environments, using machine learning to help people ma
 </summary>
 <ul>
  <li>Supervised teams of 6–8 students in developing data-driven, explainable AI methods for predictive policing, ensuring projects met addressed stakeholder concerns, technical requirements and ethical considerations.
+</li> 
 </ul>
 </details>
 
@@ -53,7 +55,7 @@ I thrive in collaborative environments, using machine learning to help people ma
 #### Surveying the Field Of Implicit Neural Representations (ongoing)
 <details>
 <summary>Details</summary>
-This is a continuation of my Bachelor End Project, I am implementing methods such as mixed precision training, <a href="https://github.com/ubc-vision/nf-soft-mining/tree/main">Soft-Mining</a> and <a href="https://github.com/NVlabs/instant-ngp/tree/master/src">Instant-Neural-Graphic Primitives</a> to accelerate training of Implicit Neural Representations in order to finish running the experiments for a survey of methods to learn Implicit Neural Representations (INRs) e.g. NeRFs, SDFs.
+<li>This is a continuation of my Bachelor End Project, I am implementing methods such as mixed precision training, <a href="https://github.com/ubc-vision/nf-soft-mining/tree/main">Soft-Mining</a> and <a href="https://github.com/NVlabs/instant-ngp/tree/master/src">Instant-Neural-Graphic Primitives</a> to accelerate training of Implicit Neural Representations in order to finish running the experiments for a survey of methods to learn Implicit Neural Representations (INRs) e.g. NeRFs, SDFs.</li>
 </details>
 <br/>
 
@@ -64,10 +66,10 @@ This is a continuation of my Bachelor End Project, I am implementing methods suc
 <summary>Details</summary>
 <ul>
 
-<li> Built an <a href="https://github.com/stilxam/INR_BEP">open-source INR benchmarking codebase</a>
-<li> Implemented 9 layer types and 2 positional encodings.
-<li> Added suport to learn fourier transforms, derivatives and integral representations.
-<li> Developed a NTK based trainability metric for INRs, outperforming the standard condition-number measure.
+<li> Built an <a href="https://github.com/stilxam/INR_BEP">open-source INR benchmarking codebase</a> </li> 
+<li> Implemented 9 layer types and 2 positional encodings. </li> 
+<li> Added suport to learn fourier transforms, derivatives and integral representations. </li> 
+<li> Developed a NTK based trainability metric for INRs, outperforming the standard condition-number measure.</li> 
 </ul>
 </details>
 <br/>
