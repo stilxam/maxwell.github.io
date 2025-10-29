@@ -24,8 +24,9 @@ I thrive in collaborative environments, using machine learning to help people ma
 <ul>
 <li> Mentored and instructed classes of 60 students in Python, created auxiliary course material, graded assignments, invigilated exams, and led course material recaps during instructor absences.
 </ul>
-
 </details>
+<br/>
+
 <details>
 <summary>
 [2023-now] - Project Supervisor [JBG030/JBG040]:
