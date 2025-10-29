@@ -154,6 +154,8 @@ I thrive in collaborative environments, using machine learning to help people ma
 
 ## Languages
 Native: French, English, Spanish
+
 Fluent: German
+
 Proficient (Reading & Listening): Dutch
 
