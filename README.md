@@ -157,4 +157,3 @@ Native: French, English, Spanish
 Fluent: German
 Proficient (Reading & Listening): Dutch
 
-
