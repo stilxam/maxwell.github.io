@@ -3,7 +3,7 @@
 
 # Maxwell Litsios
 **MSc Data Science & AI Student | Data Scientist | Software Engineer**
-Eindhoven, NL | +41 76 799 60 53
+Eindhoven, NL | +41 76 799 60 53|
 [LinkedIn](https://www.linkedin.com/in/maxwell-litsios-hilber) | [GitHub](https://github.com/stilxam) | [maxwell.litsios.hilber@gmail.com](mailto:maxwell.litsios.hilber@gmail.com)
 
 ---
