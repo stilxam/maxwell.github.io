@@ -73,4 +73,4 @@ Data Scientist and Software Engineer specializing in **JAX**, machine learning o
 
 ### **Awards & Interests**
 *   **Awards:** Volunteer of the Year (ESSF), Best Project Award (London Met Police Project), Best Pitch Award (JADS).
-*   **Interests:** Strongman competitor, Olympic Weightlifting coach.
+*   **Interests:** Olympic Weightlifting athlete (#3 ranked Super Heavyweight in the NL) and coach.
