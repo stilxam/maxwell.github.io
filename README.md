@@ -16,6 +16,7 @@ Data Scientist and Software Engineer specializing in **JAX**, machine learning o
 ### **Education**
 
 **MSc Data Science and AI** | Eindhoven University of Technology | *2025 – Present*
+GPA: 8.2/10
 *   **Focus:** Deep Reinforcement Learning, Implicit Neural Representations (INRs), Bayesian Machine Learning.
 *   **Research:** Developing uncertainty-aware agents using Budgeted Q-learning and BNNs (Pyro, Deep Ensembles). Implementing mixed-precision training and Instant-NGP to accelerate INR learning.
 
